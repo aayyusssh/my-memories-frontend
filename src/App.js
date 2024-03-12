@@ -12,6 +12,7 @@ import PostDetails from './components/PostDetails/PostDetails';
 
 const App = () =>{
     const clientId = '268548838482-1jsla1kct3eakj1utbmrh3ve8ign8bkl.apps.googleusercontent.com'
+    const DefaultRedirect = () => <Redirect to="/posts" />;
     const user = JSON.parse(localStorage.getItem('profile'));
     return(
         <GoogleOAuthProvider clientId={clientId}>
@@ -24,6 +25,7 @@ const App = () =>{
                 <Route path='/posts/search' exact component={Home}/>
                 <Route path='/posts/:id' exact component={PostDetails}/>
                 <Route path='/auth' exact component={()=>(!user?<Auth/>:<Redirect to='/posts'/>)}/>
+                <Route component={DefaultRedirect}/>
             </Switch>
         </Container>
         </BrowserRouter>
