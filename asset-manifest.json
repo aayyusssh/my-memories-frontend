@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/my-memories-frontend/static/css/main.576bad8f.chunk.css",
-    "main.js": "/my-memories-frontend/static/js/main.5e9ee4df.chunk.js",
-    "main.js.map": "/my-memories-frontend/static/js/main.5e9ee4df.chunk.js.map",
+    "main.js": "/my-memories-frontend/static/js/main.aed1cd79.chunk.js",
+    "main.js.map": "/my-memories-frontend/static/js/main.aed1cd79.chunk.js.map",
     "runtime-main.js": "/my-memories-frontend/static/js/runtime-main.db6f7dc8.js",
     "runtime-main.js.map": "/my-memories-frontend/static/js/runtime-main.db6f7dc8.js.map",
     "static/js/2.0fa94e89.chunk.js": "/my-memories-frontend/static/js/2.0fa94e89.chunk.js",
     "static/js/2.0fa94e89.chunk.js.map": "/my-memories-frontend/static/js/2.0fa94e89.chunk.js.map",
     "index.html": "/my-memories-frontend/index.html",
-    "precache-manifest.8e987403e76ff65ed10caa3cd7f8f218.js": "/my-memories-frontend/precache-manifest.8e987403e76ff65ed10caa3cd7f8f218.js",
+    "precache-manifest.87baf9773485098d131a440797ea7b21.js": "/my-memories-frontend/precache-manifest.87baf9773485098d131a440797ea7b21.js",
     "service-worker.js": "/my-memories-frontend/service-worker.js",
     "static/css/main.576bad8f.chunk.css.map": "/my-memories-frontend/static/css/main.576bad8f.chunk.css.map",
     "static/js/2.0fa94e89.chunk.js.LICENSE.txt": "/my-memories-frontend/static/js/2.0fa94e89.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.db6f7dc8.js",
     "static/js/2.0fa94e89.chunk.js",
     "static/css/main.576bad8f.chunk.css",
-    "static/js/main.5e9ee4df.chunk.js"
+    "static/js/main.aed1cd79.chunk.js"
   ]
 }
