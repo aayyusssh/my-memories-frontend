@@ -66,4 +66,4 @@ jobs:
 
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }} # This secret need to be created
 
-          slack_webhook: "" # This secret need to be created
+          slack_webhook: ${{ secrets.SLACK_WEBHOOK }} # This secret need to be created
